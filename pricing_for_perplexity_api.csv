@@ -1,0 +1,5 @@
+model_parameter_count,per1m_input_tokens,per1m_output_tokens
+7B,$0.07,$0.28
+13B,$0.14,$0.56
+34B,$0.35,$1.40
+70B,$0.70,$2.80
